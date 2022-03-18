@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:15:5-50:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nino\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nino\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nino\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nino\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Nino\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from [:audioplayers] C:\Users\Nino\Documents\GitHub\flutter_crush\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:path_provider] C:\Users\Nino\Documents\GitHub\flutter_crush\build\path_provider\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nino\.gradle\caches\transforms-3\bc4fd821a6e51a54b504be8013b5f90b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\26dba6039296c7e11e55695e578f012b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nino\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nino\.gradle\caches\transforms-3\02660f3bb5ba5d35d36b84f966b5477a\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\fb3449e72dc29f308cc217ab7482dbfb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\7a6baf161ab5d6c31b6f6f5d94e198cf\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nino\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nino\.gradle\caches\transforms-3\82c5f8c672879a5fbe5f33ff548c9006\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nino\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:8:5-66
+MERGED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:8:5-66
+MERGED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-sdk
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+MERGED from [:audioplayers] C:\Users\Nino\Documents\GitHub\flutter_crush\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayers] C:\Users\Nino\Documents\GitHub\flutter_crush\build\audioplayers\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:path_provider] C:\Users\Nino\Documents\GitHub\flutter_crush\build\path_provider\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Nino\Documents\GitHub\flutter_crush\build\path_provider\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nino\.gradle\caches\transforms-3\bc4fd821a6e51a54b504be8013b5f90b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nino\.gradle\caches\transforms-3\bc4fd821a6e51a54b504be8013b5f90b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\26dba6039296c7e11e55695e578f012b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\26dba6039296c7e11e55695e578f012b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nino\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nino\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nino\.gradle\caches\transforms-3\02660f3bb5ba5d35d36b84f966b5477a\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nino\.gradle\caches\transforms-3\02660f3bb5ba5d35d36b84f966b5477a\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\fb3449e72dc29f308cc217ab7482dbfb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\fb3449e72dc29f308cc217ab7482dbfb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\7a6baf161ab5d6c31b6f6f5d94e198cf\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nino\.gradle\caches\transforms-3\7a6baf161ab5d6c31b6f6f5d94e198cf\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nino\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nino\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nino\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nino\.gradle\caches\transforms-3\82c5f8c672879a5fbe5f33ff548c9006\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nino\.gradle\caches\transforms-3\82c5f8c672879a5fbe5f33ff548c9006\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nino\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nino\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nino\Documents\GitHub\flutter_crush\android\app\src\debug\AndroidManifest.xml
